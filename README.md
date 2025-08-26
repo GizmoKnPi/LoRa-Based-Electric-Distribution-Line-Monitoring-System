@@ -1,4 +1,4 @@
-#  Real-Time Smart Distribution Fault Detection System  
+#  LoRa Based Electric Distribution Line Monitoring System  
 
 A real-time **grid monitoring and fault detection system** utilizing **ESP32**, **Current Transformers (CTs)**, **Voltage sensors**, and **LoRa communication** for pole-to-substation data transfer.  
 The system integrates with **MQTT** and a **Web GUI Dashboard** for monitoring, fault visualization, and system restoration.  
