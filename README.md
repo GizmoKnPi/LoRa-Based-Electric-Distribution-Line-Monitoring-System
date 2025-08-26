@@ -40,7 +40,7 @@ Built as part of a Hardware hackathon to address **automated detection of fallen
 
 ## Hardware Components
 - **Microcontrollers**: ESP32 NodeMCU (x2)  
-- **Communication**: LoRa SX1278 modules  
+- **Communication**: E32-900T30D LoRa Modules  
 - **Sensors**:  
   - CT current sensors (ZMCT103C)  
   - AC voltage sensors (ZMPT101B)  
